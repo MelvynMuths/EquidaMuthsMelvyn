@@ -13,3 +13,5 @@ http://localhost:8084/EquidaWeb19/ServletClient/ajouterClient
 
 
 Il n'y a plus qu'à faire évoluer et embellir cette application....
+
+Yes
