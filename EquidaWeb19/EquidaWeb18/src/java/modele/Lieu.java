@@ -12,9 +12,14 @@ package modele;
 public class Lieu {
     private int id ;
 
+    public Lieu() {
+    }
+
     public Lieu(int id) {
         this.id = id;
     }
+
+    
 
     public int getId() {
         return id;
